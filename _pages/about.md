@@ -24,6 +24,6 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 - *2020.09 - 2024.06*, Bachelor of Engineering in Artificial Intelligence, China University of Mining and Technology, Xuzhou, China
 
 - *2024.09 - 2027.06*, Master of Engineering in Artificial Intelligence, Shenzhen University, Shenzhen, China
-  - Supervised by Prof. Yu Fei
+  <!-- - Supervised by Prof. Yu Fei-->
 
 <!--# Internships-->
