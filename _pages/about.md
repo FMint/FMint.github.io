@@ -17,9 +17,11 @@ You can find my CV here: [fsy's Curriculum Vitae](../assets/Curriculum_Vitae.pdf
 
 If you are interested in my work, please feel free to drop me an [email](mailto:fsy_fushuying@qq.com).
 
-#Publications
+Publications
+======
 
-#Honors and Awards
+Honors and Awards
+======
 
 Educations
 ======
@@ -28,4 +30,5 @@ Educations
 2024.09 - 2027.06, Master of Engineering in Artificial Intelligence, Shenzhen University, Shenzhen, China
 Supervised by Prof. Yu Fei
 
-#Internships
+Internships
+======
